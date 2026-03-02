@@ -56,6 +56,8 @@ sudo apt install libssl-dev
     - Open MSYS2 UCRT64 terminal and run :  ```pacman -Syu```
     - Then install GCC : ```pacman -S mingw-w64-ucrt-x86_64-gcc```
     - Finally, install OpenSSL development libraries : ```pacman -S mingw-w64-ucrt-x86_64-openssl```
+ 
+---
 
 ## 📌 Usage
 
@@ -66,8 +68,10 @@ sudo apt install libssl-dev
 
 + As i said this is very simple tool.
 
+---
 
 <p align="center">
   <img src="https://github.com/Piyumila1/SHA256_password_cracker/blob/master/master/media/compile.png">
+---
   <img src="https://github.com/Piyumila1/SHA256_password_cracker/blob/master/master/media/usage.png">
 </p>
