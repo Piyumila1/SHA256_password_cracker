@@ -68,7 +68,6 @@ sudo apt install libssl-dev
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/language-C-blue">
-  <img src="https://img.shields.io/badge/library-OpenSSL-green">
-  <img src="https://img.shields.io/badge/type-Dictionary%20Attack-red">
+  <img src="https://img.shields.io/badge/language-C-blue](https://github.com/Piyumila1/SHA256_password_cracker/blob/master/master/media/compile.png">
+  <img src="https://img.shields.io/badge/library-OpenSSL-green](https://github.com/Piyumila1/SHA256_password_cracker/blob/master/master/media/usage.png">
 </p>
