@@ -36,7 +36,7 @@
 + This simple tool can be compile and run on any platform with GCC.
 
 ```bash
-gcc password_cracker.c <name> cracker -lssl -lcrypto
+gcc password_cracker.c -o <name> -lssl -lcrypto
 ```
 
 + Make sure OpenSSL development libraries are installed.
